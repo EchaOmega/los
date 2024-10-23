@@ -1,0 +1,124 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "6e77616cf2768fd9b0f1505033d955da",
+      "info": {
+        "title": "Land of Snowfall",
+        "artist": "LThirty6",
+        "genre": "WINTERSCAPE",
+        "subtitles": [
+          "[SP Beginner]"
+        ],
+        "subartists": [
+          "obj: OfficialAz3"
+        ],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 196,
+      "bpm": {
+        "init": 174,
+        "min": 174,
+        "median": 174,
+        "max": 174
+      },
+      "duration": 146.89655172413794,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "f084730b201560424b63209950837834",
+      "info": {
+        "title": "Land of Snowfall",
+        "artist": "LThirty6",
+        "genre": "WINTERSCAPE",
+        "subtitles": [
+          "[SP Normal]"
+        ],
+        "subartists": [
+          "obj: OfficialAz3"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 602,
+      "bpm": {
+        "init": 174,
+        "min": 174,
+        "median": 174,
+        "max": 174
+      },
+      "duration": 146.89655172413794,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "2917ec81a9f122b933710e5f6e6d3e30",
+      "info": {
+        "title": "Land of Snowfall",
+        "artist": "LThirty6",
+        "genre": "WINTERSCAPE",
+        "subtitles": [
+          "[SP Hyper]"
+        ],
+        "subartists": [
+          "obj: DJ Adrichii"
+        ],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 702,
+      "bpm": {
+        "init": 174,
+        "min": 174,
+        "median": 174,
+        "max": 174
+      },
+      "duration": 146.89655172413794,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "07d521b26a83fc9c0bcc3c7b8a07a091",
+      "info": {
+        "title": "Land of Snowfall",
+        "artist": "LThirty6",
+        "genre": "WINTERSCAPE",
+        "subtitles": [
+          "[SP Another]"
+        ],
+        "subartists": [
+          "obj: OfficialAz3"
+        ],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 1167,
+      "bpm": {
+        "init": 174,
+        "min": 174,
+        "median": 174,
+        "max": 174
+      },
+      "duration": 146.89655172413794,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    }
+  ],
+  "title": "Land of Snowfall",
+  "artist": "LThirty6",
+  "genre": "WINTERSCAPE",
+  "bpm": 174,
+  "song_url": "https://soundcloud.com/lthirty6/land-of-snowfall",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=393&event=146",
+  "artist_url": "https://x.com/LThirty6",
+  "readme": "README.md",
+  "replaygain": "-11.62 dB",
+  "preview_offset": 96,
+  "preview_url": "bemuse-data/preview.mp3"
+}
